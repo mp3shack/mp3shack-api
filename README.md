@@ -1,2 +1,2 @@
 # mp3shack-api
-MP3Shack.com - Public API
+[link text itself]: https://mp3shack.com/ - Public API
